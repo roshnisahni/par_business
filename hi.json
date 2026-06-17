@@ -38,5 +38,10 @@
   "Purchase raw materials with test certificate for checking properties like chemical composition and mechanical properties.": "रासायनिक संरचना और यांत्रिक गुणों जैसे गुणों की जांच के लिए परीक्षण प्रमाण पत्र के साथ कच्चे माल की खरीद करें।",
   "Production Process": "उत्पादन प्रक्रिया",
   "-Stage wise inspection at specific frequency.": "- विशिष्ट आवृत्ति पर स्टेज वार निरीक्षण।",
-  "- Diameter of wire.": "- तार का व्यास।"
+  "- Diameter of wire.": "- तार का व्यास।",
+  "- First 5 pieces are checked and are approved by supervisor.": "- पहले 5 टुकड़ों की जाँच की जाती है और उन्हें सुपरवाइज़र द्वारा अनुमोदित किया जाता है।",
+  "Technical inspection": "तकनीकी मुआयना",
+  "Temperature of furnance are regularly checked with electronic heat recorder.": "इलेक्ट्रॉनिक हीट रिकॉर्डर के साथ फर्नेस के तापमान की नियमित रूप से जांच की जाती है।",
+  "Finishing": "प्रक्रिया अभी चालू नहीं हुआ है",
+  "Quality and thickness is checked by technical staff at specific frequency.": "विशिष्ट आवृत्ति पर तकनीकी कर्मचारियों द्वारा गुणवत्ता और मोटाई की जाँच की जाती है।"
 }
