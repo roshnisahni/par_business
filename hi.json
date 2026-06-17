@@ -48,5 +48,10 @@
   "Packaging of each items are labelled and mentioned with specific Size, PO. No., Total weight and no. of pieces per packet.": "प्रत्येक आइटम की पैकेजिंग को लेबल किया जाता है और विशिष्ट आकार, पीओ के साथ उल्लेख किया जाता है। नहीं, कुल वजन और प्रति पैकेट टुकड़ों की संख्या।",
   "Show Full Process": "पूरी प्रक्रिया दिखाएँ",
   "Our Products": "हमारे प्रोडक्ट",
-  "ALL": "सभी"
+  "ALL": "सभी",
+  "BOLTS": "बोल्ट",
+  "NUTS": "बादाम आदि",
+  "WASHERS": "वाशर",
+  "RIVETS": "रिवेट्स",
+  "SCREWS": "शिकंजा"
 }
