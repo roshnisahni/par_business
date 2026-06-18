@@ -73,5 +73,10 @@
   "item-hhexbolt": "ヘビー六角ボルト",
   "item-structbolt": "六角構造ボルト",
   "item-coachbolt": "コーチ/キャリッジボルト",
-  "item-hexscrew": "六角ネジ"
+  "item-hexscrew": "六角ネジ",
+  "item-studbolt": "スタッド＆ベント/Uボルト",
+  "contact-title": "お問合せ",
+  "contact-addr-title": "住所",
+  "contact-addr-detail": "D -82, Phase - 5, near C.T.R, focal point, Ludhiana - 141010",
+  "contact-email-title": "メールでお問いあわせ"
 }
