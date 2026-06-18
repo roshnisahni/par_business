@@ -114,5 +114,10 @@
   "li-grade-ht": "Elevata",
   "lbl-finish-alt3": "Finitura:",
   "lbl-studs-range": "BULLONI E BORCHIE A DOPPIA ESTREMITÀ:",
-  "val-studs-desc": "PAR produce bulloni prigionieri come da ASTM A193 Gr. B7 e borchie a doppia estremità in diametro da ½\" a 4\" e lunghezza fino a 76\"in pollici e da 8 mm a 100 mm e lunghezza fino a 3 metri in serie metrica."
+  "val-studs-desc": "PAR produce bulloni prigionieri come da ASTM A193 Gr. B7 e borchie a doppia estremità in diametro da ½\" a 4\" e lunghezza fino a 76\"in pollici e da 8 mm a 100 mm e lunghezza fino a 3 metri in serie metrica.",
+  "lbl-grade-alt4": "VALUTAZIONE",
+  "val-grade-studs": "B7, B7M, 2H, 2HM",
+  "lbl-de-type": "Doppia estremità.",
+  "val-de-desc": "Acciaio dolce e alta resistenza",
+  "table2-title": "TABELLA DELLE SPECIFICHE STANDARD PAR"
 }
