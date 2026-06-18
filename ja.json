@@ -4,9 +4,14 @@
   "menu-services": "サービス",
   "menu-quality": "品質ポリシー",
   "menu-products": "製品",
-  "meta-title": "PAR Industries",
-  "nav-home": "ホーム",
-  "nav-about": "会社概要",
-  "nav-services": "サービス",
-  "nav-quality": "品質ポリシー"
+  "menu-product-range": "製品レンジ",
+  "menu-customers": "当社のお客様",
+  "menu-contact": "お問合せ",
+  "welcome": "PARへようこそ\nインドの大手ファスナーメーカー！\n続きを読む",
+  "slide1-subtitle": "主要なファスナー\n                  インドのメーカー！",
+  "btn-read-more": "詳細はこちら",
+  "slide2-title": "を使用して設計されたファスナー\n                  高品質の材料であり、現在の国際仕様に準拠しています。",
+  "btn-product-range": "製品レンジ",
+  "slide3-title": "熱間鍛造と冷間鍛造の両方を含む\n                  製造施設。",
+  "btn-services": "サービス"
 }
