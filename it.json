@@ -119,5 +119,10 @@
   "val-grade-studs": "B7, B7M, 2H, 2HM",
   "lbl-de-type": "Doppia estremità.",
   "val-de-desc": "Acciaio dolce e alta resistenza",
-  "table2-title": "TABELLA DELLE SPECIFICHE STANDARD PAR"
+  "table2-title": "TABELLA DELLE SPECIFICHE STANDARD PAR",
+  "table2-th-sr": "Sr. No. ",
+  "table2-th-std": "Standard",
+  "table2-th-item": "Item",
+  "table2-th-mech": "Meccanica",
+  "table2-th-dim": "Stabilità a "
 }
