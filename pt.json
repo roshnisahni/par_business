@@ -74,5 +74,10 @@
   "breadcrumbs-current": "Gama de Produtos",
   "table1-title": "Gama de fixadores comerciais e de precisão",
   "table1-th-dia": "Diameter",
-  "table1-th-len": "Comprimento (mm)"
+  "table1-th-len": "Comprimento (mm)",
+  "table1-th-cold": "Forjado a Frio",
+  "table1-th-hot": "Forjado a Quente",
+  "lbl-bolts-range": "ALCANCE DOS PARAFUSOS:",
+  "li-cold-forg": "Forjamento a Frio (M4 a M30)",
+  "li-hot-forg": "Forjamento a quente (M10 a M80)"
 }
