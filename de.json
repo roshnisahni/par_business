@@ -124,5 +124,10 @@
   "table2-th-std": "Standard",
   "table2-th-item": "Art.",
   "table2-th-mech": "Mechanisch",
-  "table2-th-dim": "Dimensional"
+  "table2-th-dim": "Dimensional",
+  "item-hexbolt": "Sechskant-Bolzen",
+  "item-hhexbolt": "Schwerer Sechskantbolzen",
+  "item-structbolt": "Sechskantschraube",
+  "item-coachbolt": "Coach / Carriage Bolt",
+  "item-hexscrew": "Sechskantschraube"
 }
