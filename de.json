@@ -74,5 +74,10 @@
   "breadcrumbs-current": "Produktauswahl",
   "table1-title": "Sortiment an kommerziellen & Präzisionsbefestigungen",
   "table1-th-dia": "Durchmesser",
-  "table1-th-len": "Länge (mm)"
+  "table1-th-len": "Länge (mm)",
+  "table1-th-cold": "Kaltgeschmiedet",
+  "table1-th-hot": "Glühend geschmiedet",
+  "lbl-bolts-range": "SCHRAUBENBEREICH:",
+  "li-cold-forg": "Kaltschmieden (M4 bis M30)",
+  "li-hot-forg": "Warmschmieden (M10 bis M80)"
 }
