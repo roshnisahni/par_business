@@ -13,10 +13,15 @@
   "nav-range": "제품영역",
   "nav-customers": "고객",
   "nav-contact": "문의",
-  "breadcrumbs-title": "제품영역",
+  "breadcrumbs-title": "고객",
   "breadcrumbs-home": "홈",
-  "breadcrumbs-current": "제품영역",
-  "table1-title": "상업용 및 정밀 패스너 제품군",
-  "table1-th-dia": "직경",
-  "table1-th-len": "길이 (mm)"
+  "breadcrumbs-current": "고객",
+  "portfolio-title": "고객",
+  "portfolio-desc": "당사는 다음 산업에 제품을 공급합니다.",
+  "sector-agri": "농업 분야",
+  "sector-auto": "자동차 부문",
+  "sector-build": "건축 및 건설",
+  "sector-cycle": "사이클 산업",
+  "sector-panel": "전기 패널",
+  "sector-nuclear": "원자력 발전소"
 }
