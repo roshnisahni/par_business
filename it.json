@@ -104,5 +104,10 @@
   "li-wash-plain": "RONDELLE PIANE",
   "li-wash-heavy": "Rondelle pesanti",
   "li-wash-spring": "Rondelle elastiche",
-  "li-wash-hsfg": "Rondelle con impugnatura ad attrito ad alta resistenza\ncome da richiesta del cliente."
+  "li-wash-hsfg": "Rondelle con impugnatura ad attrito ad alta resistenza\ncome da richiesta del cliente.",
+  "li-wash-req": "come da\n                il requisito del cliente.",
+  "lbl-finish-alt2": "Finitura:",
+  "lbl-bars-range": "Barre filettate",
+  "val-bars-desc": "PAR produce Barre Filettate con diametro massimo fino a 100 mm e Lunghezza fino a 3 metri.",
+  "lbl-grade-alt3": "VALUTAZIONE"
 }
