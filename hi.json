@@ -132,5 +132,10 @@
   "val-de-desc": "हल्के स्टील और उच्च तन्यता",
   "table2-title": "PAR मानक विशिष्टता तालिका",
   "table2-th-sr": "क्र.सं.",
-  "table2-th-std": "मानक"
+  "table2-th-std": "मानक",
+  "table2-th-item": "आइटम",
+  "table2-th-mech": "यांत्रिकीय",
+  "table2-th-dim": "आकार",
+  "item-hexbolt": "हेक्स बोल्ट",
+  "item-hhexbolt": "हैवी हेक्स बोल्ट"
 }
