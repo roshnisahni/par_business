@@ -28,5 +28,10 @@
   "nav-home": "Домой",
   "nav-about": "О нас",
   "nav-services": "Услуги",
-  "nav-quality": "Политика в области качества"
+  "nav-quality": "Политика в области качества",
+  "nav-products": "Продукты",
+  "nav-range": "Ассортимент продукции",
+  "nav-customers": "Клиенты компании",
+  "nav-contact": "Свяжитесь с нами",
+  "breadcrumbs-title": "Ассортимент продукции"
 }
