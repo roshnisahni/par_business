@@ -142,5 +142,10 @@
   "sector-panel": "Schalttafel",
   "sector-nuclear": "KERNANLAGE",
   "sector-oil": "chen Öl und Gas ausgelegt.",
-  "sector-solar": "Solarbranche"
+  "sector-solar": "Solarbranche",
+  "sector-bridge": "Stahlbrückenbau",
+  "sector-transformer": "Transformatorensektor",
+  "sector-transmission": "Übertragungssektor",
+  "sector-valves": "Ventilsektor",
+  "portfolio-btn": "Home"
 }
