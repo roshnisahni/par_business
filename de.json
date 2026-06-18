@@ -33,5 +33,10 @@
   "service3-desc2": "Diese Stabmuttern werden in vielen Bereichen eingesetzt. Trop Maschinen ermöglichen es uns, auch Stabmuttern nach Kundenzeichnung und Spezifikation herzustellen.",
   "quality-title": "QUALITÄTSRICHTLINIEN",
   "quality-num1": "01",
-  "quality-step1-title": "Rohstoffeingang"
+  "quality-step1-title": "Rohstoffeingang",
+  "quality-step1-desc": "Kaufen Sie Rohstoffe mit Prüfzertifikat zur Überprüfung von Eigenschaften wie chemische Zusammensetzung und mechanische Eigenschaften.",
+  "quality-num2": "02",
+  "quality-step2-title": "Produktionsprozess",
+  "quality-step2-desc1": "- Stufenweise Inspektion mit einer bestimmten Häufigkeit.",
+  "quality-step2-desc2": "Durchmesser:"
 }
