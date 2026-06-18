@@ -99,5 +99,10 @@
   "lbl-grade-alt": "NOTE:",
   "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
   "lbl-finish-alt": "FINISH",
-  "li-finish-self": "Selbst, Schwarz"
+  "li-finish-self": "Selbst, Schwarz",
+  "lbl-washer-range": "UNTERLEGSCHEIBEN-SORTIMENT:",
+  "li-wash-plain": "2 Unterlegscheiben",
+  "li-wash-heavy": "Schwere Unterlegscheiben",
+  "li-wash-spring": "FEDERUNTERLEGSCHEIBEN",
+  "li-wash-hsfg": "Hochfeste Reibungsgriffscheiben\ngemäß den Anforderungen des Kunden."
 }
