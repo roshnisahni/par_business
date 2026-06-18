@@ -111,5 +111,10 @@
   "li-nut-hex": "Écrous hexagonaux",
   "li-nut-fric": "force d'adhérence par frottement",
   "li-nut-sq": "Écrous carrés",
-  "li-nut-flange": "Coffrets, écrous à embase"
+  "li-nut-flange": "Coffrets, écrous à embase",
+  "li-nut-nylock": "Écrous Nylock",
+  "li-nut-dome": "ÉCROUS DÔME",
+  "li-nut-comm": "Fruits à coque commerciaux",
+  "li-nut-wheel": "Écrous de la roue",
+  "lbl-grade-alt": "Classe:"
 }
