@@ -92,5 +92,10 @@
   "li-cold-forg": "कोल्ड फोर्जिंग (M4 से M30)",
   "li-hot-forg": "हॉट फोर्जिंग (M10 से M80)",
   "lbl-grade": "क्या आप सचमुच चयनित प्रविष्टियों को मिटाना चाहते हैं?",
-  "val-grade-bolts": "4.6, 4.8, 5.6, BSW, BSF, UNC, UNF (Gr2) प्रेसिजन, 6.6, 6.8, 6.9, 8.8, 10.9, Gr 2, Gr 5, Gr 8, B7, Gr. R, S, T, U, V, A325, A490"
+  "val-grade-bolts": "4.6, 4.8, 5.6, BSW, BSF, UNC, UNF (Gr2) प्रेसिजन, 6.6, 6.8, 6.9, 8.8, 10.9, Gr 2, Gr 5, Gr 8, B7, Gr. R, S, T, U, V, A325, A490",
+  "lbl-finish": "पूरा करें",
+  "li-finish-black": "ब्लैक, सेल्फ़",
+  "li-finish-zinc": "जस्ता चढ़ाया हुआ",
+  "li-finish-rilsan": "रिलसन ब्लू",
+  "li-finish-hdg": "हॉट डिप जस्तीकृत"
 }
