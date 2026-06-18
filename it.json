@@ -38,5 +38,10 @@
   "quality-num2": "02",
   "quality-step2-title": "Processo produttivo",
   "quality-step2-desc1": "- Ispezione in fase a frequenza specifica.",
-  "quality-step2-desc2": "- Diametro del filo."
+  "quality-step2-desc2": "- Diametro del filo.",
+  "quality-step2-desc3": "- I primi 5 pezzi vengono controllati e approvati dal supervisore.",
+  "quality-num3": "03",
+  "quality-step3-title": "Ispezioni tecniche",
+  "quality-step3-desc": "La temperatura dell'arredo viene regolarmente controllata con un registratore di calore elettronico.",
+  "quality-num4": "04"
 }
