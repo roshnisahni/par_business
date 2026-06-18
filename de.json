@@ -94,5 +94,10 @@
   "li-nut-flange": "Flanschmuttern-Sortimente",
   "li-nut-nylock": "Nylock-Muttern",
   "li-nut-dome": "Kuppelmuttern",
-  "li-nut-comm": "Kommerzielle Nüsse"
+  "li-nut-comm": "Kommerzielle Nüsse",
+  "li-nut-wheel": "Radmuttern",
+  "lbl-grade-alt": "NOTE:",
+  "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
+  "lbl-finish-alt": "FINISH",
+  "li-finish-self": "Selbst, Schwarz"
 }
