@@ -141,5 +141,10 @@
   "val-de-desc": "Acier doux et haute résistance",
   "table2-title": "TABLEAU DES SPÉCIFICATIONS STANDARD PAR",
   "table2-th-sr": "Nº de série",
-  "table2-th-std": "Standard"
+  "table2-th-std": "Standard",
+  "table2-th-item": "Rubrique",
+  "table2-th-mech": "Mécanique",
+  "table2-th-dim": "Dimensionnel :",
+  "item-hexbolt": "Boulon Hexagonal",
+  "item-hhexbolt": "Boulon hexagonal lourd"
 }
