@@ -101,5 +101,10 @@
   "li-cold-forg": "Forgeage à froid (M4 à M30)",
   "li-hot-forg": "Forgeage à chaud (M10 à M80)",
   "lbl-grade": "Classe:",
-  "val-grade-bolts": "4.6, 4.8, 5.6, BSW, BSF, UNC, UNF (Gr2) Precision, 6.6, 6.8, 6.9, 8.8, 10.9, Gr 2, Gr 5, Gr 8, B7, Gr. R, S, T, U, V, A325, A490"
+  "val-grade-bolts": "4.6, 4.8, 5.6, BSW, BSF, UNC, UNF (Gr2) Precision, 6.6, 6.8, 6.9, 8.8, 10.9, Gr 2, Gr 5, Gr 8, B7, Gr. R, S, T, U, V, A325, A490",
+  "lbl-finish": "FINITION :",
+  "li-finish-black": "Noir, Soi",
+  "li-finish-zinc": "Plaqué zinc",
+  "li-finish-rilsan": "Bleu Rilsan",
+  "li-finish-hdg": "Galvanisé à chaud"
 }
