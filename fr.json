@@ -121,5 +121,10 @@
   "lbl-finish-alt": "FINITION :",
   "li-finish-self": "Self, Noir",
   "lbl-washer-range": "Rondelle - Portée de la taille",
-  "li-wash-plain": "Rondelles plates"
+  "li-wash-plain": "Rondelles plates",
+  "li-wash-heavy": "Rondelles lourdes",
+  "li-wash-spring": "Rondelles élastiques",
+  "li-wash-hsfg": "Rondelles de friction haute résistance\nselon les exigences du client.",
+  "li-wash-req": "selon\n                l'exigence du client.",
+  "lbl-finish-alt2": "FINITION :"
 }
