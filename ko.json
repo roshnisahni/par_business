@@ -63,5 +63,10 @@
   "val-grade-studs": "B7, B7M, 2H, 2HM",
   "lbl-de-type": "더블 앤드",
   "val-de-desc": "연강 및 고장력",
-  "table2-title": "PAR 표준 규격표"
+  "table2-title": "PAR 표준 규격표",
+  "table2-th-sr": "일련번호",
+  "table2-th-std": "일반",
+  "table2-th-item": "아이템",
+  "table2-th-mech": "기계",
+  "table2-th-dim": "차원"
 }
