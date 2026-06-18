@@ -119,5 +119,10 @@
   "val-grade-studs": "B7, B7M, 2H, 2HM",
   "lbl-de-type": "Doppelendig",
   "val-de-desc": "Leichter Stahl und hohe Zugfestigkeit",
-  "table2-title": "PAR-STANDARD-SPEZIFIKATIONSTABELLE"
+  "table2-title": "PAR-STANDARD-SPEZIFIKATIONSTABELLE",
+  "table2-th-sr": "Lfd. Nr.",
+  "table2-th-std": "Standard",
+  "table2-th-item": "Art.",
+  "table2-th-mech": "Mechanisch",
+  "table2-th-dim": "Dimensional"
 }
