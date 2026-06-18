@@ -137,5 +137,10 @@
   "table2-th-mech": "यांत्रिकीय",
   "table2-th-dim": "आकार",
   "item-hexbolt": "हेक्स बोल्ट",
-  "item-hhexbolt": "हैवी हेक्स बोल्ट"
+  "item-hhexbolt": "हैवी हेक्स बोल्ट",
+  "item-structbolt": "हेक्स स्ट्रक्चरल बोल्ट",
+  "item-coachbolt": "कोच / कैरिज बोल्ट",
+  "item-hexscrew": "हेक्स स्क्रू",
+  "item-studbolt": "स्टड एंड बेंट / यू बोल्ट",
+  "contact-addr-title": "हमारा पता"
 }
