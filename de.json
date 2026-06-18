@@ -38,5 +38,10 @@
   "quality-num2": "02",
   "quality-step2-title": "Produktionsprozess",
   "quality-step2-desc1": "- Stufenweise Inspektion mit einer bestimmten Häufigkeit.",
-  "quality-step2-desc2": "Durchmesser:"
+  "quality-step2-desc2": "Durchmesser:",
+  "quality-step2-desc3": "- Die ersten 5 Teile werden geprüft und vom Vorgesetzten genehmigt.",
+  "quality-num3": "03-",
+  "quality-step3-title": "Technische Kontrollen",
+  "quality-step3-desc": "Die Temperatur des Ofens wird regelmäßig mit einem elektronischen Wärmerekorder überprüft.",
+  "quality-num4": "04"
 }
