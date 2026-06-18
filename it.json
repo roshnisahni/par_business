@@ -43,5 +43,10 @@
   "quality-num3": "03",
   "quality-step3-title": "Ispezioni tecniche",
   "quality-step3-desc": "La temperatura dell'arredo viene regolarmente controllata con un registratore di calore elettronico.",
-  "quality-num4": "04"
+  "quality-num4": "04",
+  "quality-step4-title": "Finiture.",
+  "quality-step4-desc": "La qualità e lo spessore sono controllati dal personale tecnico con frequenza specifica.",
+  "quality-num5": "05",
+  "quality-step5-title": "Fasi finali",
+  "quality-step5-desc": "L'imballaggio di ciascun articolo è etichettato e menzionato con Dimensione specifica, PO. N °, Peso totale e n ° pezzi per confezione."
 }
