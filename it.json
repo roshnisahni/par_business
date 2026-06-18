@@ -99,5 +99,10 @@
   "lbl-grade-alt": "VALUTAZIONE",
   "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
   "lbl-finish-alt": "Finitura:",
-  "li-finish-self": "Self, Black"
+  "li-finish-self": "Self, Black",
+  "lbl-washer-range": "GAMMA DI RONDELLE:",
+  "li-wash-plain": "RONDELLE PIANE",
+  "li-wash-heavy": "Rondelle pesanti",
+  "li-wash-spring": "Rondelle elastiche",
+  "li-wash-hsfg": "Rondelle con impugnatura ad attrito ad alta resistenza\ncome da richiesta del cliente."
 }
