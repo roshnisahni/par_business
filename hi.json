@@ -112,5 +112,10 @@
   "lbl-finish-alt": "पूरा करें",
   "li-finish-self": "स्वयं, काला",
   "lbl-washer-range": "वॉशर रेंज :",
-  "li-wash-plain": "प्लेन वाशर"
+  "li-wash-plain": "प्लेन वाशर",
+  "li-wash-heavy": "भारी वॉशर",
+  "li-wash-spring": "स्प्रिंग वाशर",
+  "li-wash-hsfg": "उच्च शक्ति घर्षण पकड़ वाशर\nग्राहक की आवश्यकता के अनुसार।",
+  "li-wash-req": "के अनुसार\n                ग्राहक की आवश्यकता।",
+  "lbl-finish-alt2": "पूरा करें"
 }
