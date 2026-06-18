@@ -97,5 +97,10 @@
   "li-finish-black": "ब्लैक, सेल्फ़",
   "li-finish-zinc": "जस्ता चढ़ाया हुआ",
   "li-finish-rilsan": "रिलसन ब्लू",
-  "li-finish-hdg": "हॉट डिप जस्तीकृत"
+  "li-finish-hdg": "हॉट डिप जस्तीकृत",
+  "lbl-nuts-range": "नट्स की रेंज :",
+  "li-nut-hex": "हेक्स नट्स",
+  "li-nut-fric": "घर्षण पकड़ नट",
+  "li-nut-sq": "स्क्वायर नट",
+  "li-nut-flange": "निकला हुआ मेवा"
 }
