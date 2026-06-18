@@ -132,5 +132,10 @@
   "item-hexscrew": "Sechskantschraube",
   "item-studbolt": "Bolzen & gebogen / U-Bolzen",
   "contact-addr-title": "Unsere Anschrift",
-  "contact-addr-detail": "D-82, Phase - 5 , in der Nähe von C.T.R, Brennpunkt , Ludhiana - 141010"
+  "contact-addr-detail": "D-82, Phase - 5 , in der Nähe von C.T.R, Brennpunkt , Ludhiana - 141010",
+  "portfolio-title": "Unsere Kunden",
+  "portfolio-desc": "Wir liefern unsere Produkte in folgende Branchen.",
+  "sector-agri": "Agrar-Sektor ",
+  "sector-auto": "Auto-Sektor",
+  "sector-build": "Bauwesen und Konstruktion"
 }
