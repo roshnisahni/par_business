@@ -124,5 +124,10 @@
   "table2-th-std": "Standard",
   "table2-th-item": "Item",
   "table2-th-mech": "Meccanica",
-  "table2-th-dim": "Stabilità a "
+  "table2-th-dim": "Stabilità a ",
+  "item-hexbolt": "Hex Bolt",
+  "item-hhexbolt": "Bullone esagonale pesante",
+  "item-structbolt": "BULLONE strutturale esagonale",
+  "item-coachbolt": "Bullone carrozza / carrozza",
+  "item-hexscrew": "VITE ESAGONALE"
 }
