@@ -83,5 +83,10 @@
   "lbl-finish-alt2": "HOÀN TẤT",
   "lbl-bars-range": "THANH REN:",
   "val-bars-desc": "Cải cách HÀNH chính tạo ra các thanh ren có đường kính tối đa lên đến 100 mm và chiều dài tối đa 3 mét.",
-  "lbl-grade-alt3": "BẬC"
+  "lbl-grade-alt3": "BẬC",
+  "li-grade-ms": "Thép mềm",
+  "li-grade-ht": "Độ bền kéo cao",
+  "lbl-finish-alt3": "HOÀN TẤT",
+  "lbl-studs-range": "BU LÔNG ĐINH TÁN & ĐINH TÁN HAI ĐẦU:",
+  "val-studs-desc": "Cải cách HÀNH chính là sản xuất Bu lông Stud theo ASTM A193 Gr. B7 và đinh tán hai đầu trong Dia-½” đến 4″ và chiều dài lên đến 76″ tính theo inch và 8 mm đến 100 mm và chiều dài lên đến 3 mét tính theo hệ mét."
 }
