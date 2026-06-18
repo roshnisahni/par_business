@@ -89,5 +89,10 @@
   "li-finish-hdg": "Galvanizado por Imersão a Quente",
   "lbl-nuts-range": "GAMA DE PORCAS:",
   "li-nut-hex": "Porca",
-  "li-nut-fric": "Porcas de aperto de fricção"
+  "li-nut-fric": "Porcas de aperto de fricção",
+  "li-nut-sq": "PORCAS QUADRADAS",
+  "li-nut-flange": "PORCAS CASTELO",
+  "li-nut-nylock": "Porcas Nylock",
+  "li-nut-dome": "Porcas de cúpula",
+  "li-nut-comm": "Porcas Comerciais"
 }
