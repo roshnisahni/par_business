@@ -93,5 +93,10 @@
   "val-grade-studs": "B7, B7M, 2H, 2HM",
   "lbl-de-type": "Thanh kéo hai đầu",
   "val-de-desc": "Thép nhẹ và độ bền kéo cao",
-  "table2-title": "BẢNG THÔNG SỐ KỸ THUẬT TIÊU CHUẨN"
+  "table2-title": "BẢNG THÔNG SỐ KỸ THUẬT TIÊU CHUẨN",
+  "table2-th-sr": "Số thứ tự",
+  "table2-th-std": "Tiêu chuẩn",
+  "table2-th-item": "Hạng mục",
+  "table2-th-mech": "Cơ học",
+  "table2-th-dim": "kích cỡ"
 }
