@@ -72,5 +72,10 @@
   "nav-range": "Gamme de produits",
   "nav-customers": "Nos clients",
   "nav-contact": "Nous contacter",
-  "breadcrumbs-title": "Nos clients"
+  "breadcrumbs-title": "Nos clients",
+  "breadcrumbs-home": "Accueil",
+  "breadcrumbs-current": "Nos clients",
+  "portfolio-title": "Nos clients",
+  "portfolio-desc": "Nous fournissons nos produits aux industries suivantes.",
+  "sector-agri": "Secteur Agriculture"
 }
