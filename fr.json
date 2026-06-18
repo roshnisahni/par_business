@@ -82,5 +82,10 @@
   "sector-build": "0 0 Construction et Travaux Publics",
   "sector-cycle": "Industrie du cycle",
   "sector-panel": "PANNEAU ÉLECTRIQUE",
-  "sector-nuclear": "Plante nucléaire"
+  "sector-nuclear": "Plante nucléaire",
+  "sector-oil": "Secteur pétrolier et gazier",
+  "sector-solar": "Le secteur du solaire",
+  "sector-bridge": "Construction de pont en acier",
+  "sector-transformer": "Secteur du transformateur",
+  "sector-transmission": "Secteur de la transmission"
 }
