@@ -73,5 +73,10 @@
   "lbl-grade-alt": "BẬC",
   "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
   "lbl-finish-alt": "HOÀN TẤT",
-  "li-finish-self": "Bản thân, Da đen"
+  "li-finish-self": "Bản thân, Da đen",
+  "lbl-washer-range": "PHẠM VI MÁY GIẶT:",
+  "li-wash-plain": "Vòng đệm trơn",
+  "li-wash-heavy": "Vòng đệm nặng",
+  "li-wash-spring": "Vòng đệm lò xo",
+  "li-wash-hsfg": "Vòng đệm kẹp ma sát cường độ cao\ntheo yêu cầu của khách hàng."
 }
