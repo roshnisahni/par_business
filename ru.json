@@ -105,5 +105,10 @@
   "portfolio-desc": "Мы поставляем нашу продукцию в следующие отрасли.",
   "sector-agri": "Сельскохозяйственный сектор",
   "sector-auto": "Автомобильный сектор",
-  "sector-build": "Building and construction"
+  "sector-build": "Building and construction",
+  "sector-cycle": "Циклическая промышленность",
+  "sector-panel": "Электропанель",
+  "sector-nuclear": "АТОМНАЯ ЭЛЕКТРОСТАНЦИЯ",
+  "sector-oil": "Нефтегазовый сектор",
+  "sector-solar": "Солнечный сектор"
 }
