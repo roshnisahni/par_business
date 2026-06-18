@@ -73,5 +73,10 @@
   "item-hhexbolt": "헤비 육각 볼트",
   "item-structbolt": "육각 구조 볼트",
   "item-coachbolt": "코치/캐리지 볼트",
-  "item-hexscrew": "육각 나사"
+  "item-hexscrew": "육각 나사",
+  "item-studbolt": "스터드 & 벤트/유 볼트",
+  "contact-title": "문의",
+  "contact-addr-title": "주소",
+  "contact-addr-detail": "D-82, Phase - 5, near C.T.R, focal point, Ludhiana - 141010",
+  "contact-email-title": "이메일 문의"
 }
