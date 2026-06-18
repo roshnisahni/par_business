@@ -63,5 +63,10 @@
   "val-grade-studs": "B 7、B 7 M、2 H、2 HM",
   "lbl-de-type": "両端：",
   "val-de-desc": "軟鋼と高張力",
-  "table2-title": "PAR規格仕様表"
+  "table2-title": "PAR規格仕様表",
+  "table2-th-sr": "シリアル番号。",
+  "table2-th-std": "標準",
+  "table2-th-item": "項目",
+  "table2-th-mech": "機械",
+  "table2-th-dim": "ディメンショナル"
 }
