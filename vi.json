@@ -78,5 +78,10 @@
   "li-wash-plain": "Vòng đệm trơn",
   "li-wash-heavy": "Vòng đệm nặng",
   "li-wash-spring": "Vòng đệm lò xo",
-  "li-wash-hsfg": "Vòng đệm kẹp ma sát cường độ cao\ntheo yêu cầu của khách hàng."
+  "li-wash-hsfg": "Vòng đệm kẹp ma sát cường độ cao\ntheo yêu cầu của khách hàng.",
+  "li-wash-req": "theo\n                yêu cầu của khách hàng.",
+  "lbl-finish-alt2": "HOÀN TẤT",
+  "lbl-bars-range": "THANH REN:",
+  "val-bars-desc": "Cải cách HÀNH chính tạo ra các thanh ren có đường kính tối đa lên đến 100 mm và chiều dài tối đa 3 mét.",
+  "lbl-grade-alt3": "BẬC"
 }
