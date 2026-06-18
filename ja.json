@@ -68,5 +68,10 @@
   "table2-th-std": "標準",
   "table2-th-item": "項目",
   "table2-th-mech": "機械",
-  "table2-th-dim": "ディメンショナル"
+  "table2-th-dim": "ディメンショナル",
+  "item-hexbolt": "六角ボルト",
+  "item-hhexbolt": "ヘビー六角ボルト",
+  "item-structbolt": "六角構造ボルト",
+  "item-coachbolt": "コーチ/キャリッジボルト",
+  "item-hexscrew": "六角ネジ"
 }
