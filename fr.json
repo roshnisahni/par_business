@@ -77,5 +77,10 @@
   "breadcrumbs-current": "Nos clients",
   "portfolio-title": "Nos clients",
   "portfolio-desc": "Nous fournissons nos produits aux industries suivantes.",
-  "sector-agri": "Secteur Agriculture"
+  "sector-agri": "Secteur Agriculture",
+  "sector-auto": "Secteur automobile :",
+  "sector-build": "0 0 Construction et Travaux Publics",
+  "sector-cycle": "Industrie du cycle",
+  "sector-panel": "PANNEAU ÉLECTRIQUE",
+  "sector-nuclear": "Plante nucléaire"
 }
