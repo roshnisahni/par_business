@@ -132,5 +132,10 @@
   "item-hexscrew": "Parafuso Hex.",
   "item-studbolt": "Parafuso prisioneiro e dobrado / U",
   "contact-addr-title": "N/ Morada",
-  "contact-addr-detail": "D-82, Fase - 5 , perto de C.T.R , ponto focal, Ludhiana - 141010"
+  "contact-addr-detail": "D-82, Fase - 5 , perto de C.T.R , ponto focal, Ludhiana - 141010",
+  "portfolio-title": "Os nossos Clientes",
+  "portfolio-desc": "Fornecemos nossos produtos para as seguintes indústrias.",
+  "sector-agri": "Sector agrícola",
+  "sector-auto": "Sector Automóvel",
+  "sector-build": "OBRAS E CONSTRUÇÕES"
 }
