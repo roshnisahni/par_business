@@ -33,10 +33,10 @@
   "nav-range": "Ассортимент продукции",
   "nav-customers": "Клиенты компании",
   "nav-contact": "Свяжитесь с нами",
-  "breadcrumbs-title": "Ассортимент продукции",
+  "breadcrumbs-title": "Клиенты компании",
   "breadcrumbs-home": "Домой",
-  "breadcrumbs-current": "Ассортимент продукции",
-  "table1-title": "Ассортимент коммерческих и прецизионных крепежных деталей",
-  "table1-th-dia": "Диаметр",
-  "table1-th-len": "Длина (мм) "
+  "breadcrumbs-current": "Клиенты компании",
+  "portfolio-title": "Клиенты компании",
+  "portfolio-desc": "Мы поставляем нашу продукцию в следующие отрасли.",
+  "sector-agri": "Сельскохозяйственный сектор"
 }
