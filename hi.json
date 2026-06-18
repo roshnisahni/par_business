@@ -82,5 +82,10 @@
   "sector-agri": "कृषि क्षेत्र",
   "sector-auto": "ऑटो सेक्टर",
   "sector-build": "भवन और निर्माण",
-  "sector-cycle": "साइकिल उद्योग"
+  "sector-cycle": "साइकिल उद्योग",
+  "table1-title": "कमर्शियल और प्रिसिजन फास्टनरों की रेंज",
+  "table1-th-dia": "व्यास",
+  "table1-th-len": "लंबाई (मिमी)",
+  "table1-th-cold": "कोल्ड जाली",
+  "table1-th-hot": "हॉट जाली"
 }
