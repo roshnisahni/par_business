@@ -109,5 +109,10 @@
   "lbl-finish-alt2": "Finitura:",
   "lbl-bars-range": "Barre filettate",
   "val-bars-desc": "PAR produce Barre Filettate con diametro massimo fino a 100 mm e Lunghezza fino a 3 metri.",
-  "lbl-grade-alt3": "VALUTAZIONE"
+  "lbl-grade-alt3": "VALUTAZIONE",
+  "li-grade-ms": "Acciaio dolce",
+  "li-grade-ht": "Elevata",
+  "lbl-finish-alt3": "Finitura:",
+  "lbl-studs-range": "BULLONI E BORCHIE A DOPPIA ESTREMITÀ:",
+  "val-studs-desc": "PAR produce bulloni prigionieri come da ASTM A193 Gr. B7 e borchie a doppia estremità in diametro da ½\" a 4\" e lunghezza fino a 76\"in pollici e da 8 mm a 100 mm e lunghezza fino a 3 metri in serie metrica."
 }
