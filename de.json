@@ -109,5 +109,10 @@
   "lbl-finish-alt2": "FINISH",
   "lbl-bars-range": "GEWINDESTANGEN :",
   "val-bars-desc": "PAR produziert Gewindestangen mit einem maximalen Durchmesser von bis zu 100 mm und einer Länge von bis zu 3 Metern.",
-  "lbl-grade-alt3": "NOTE:"
+  "lbl-grade-alt3": "NOTE:",
+  "li-grade-ms": "Baustahl",
+  "li-grade-ht": "hochfest",
+  "lbl-finish-alt3": "FINISH",
+  "lbl-studs-range": "STEHBOLZEN & DOPPELSTEHBOLZEN:",
+  "val-studs-desc": "PAR stellt Stehbolzen nach ASTM A193 Gr. B7- und doppelendige Bolzen mit einem Durchmesser von ½\" bis 4\" und einer Länge von bis zu 76\"in Zollserien und 8 mm bis 100 mm und einer Länge von bis zu 3 Metern in metrischen Serien."
 }
