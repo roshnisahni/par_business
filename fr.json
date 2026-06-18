@@ -126,5 +126,10 @@
   "li-wash-spring": "Rondelles élastiques",
   "li-wash-hsfg": "Rondelles de friction haute résistance\nselon les exigences du client.",
   "li-wash-req": "selon\n                l'exigence du client.",
-  "lbl-finish-alt2": "FINITION :"
+  "lbl-finish-alt2": "FINITION :",
+  "lbl-bars-range": "BARRES FILETÉES :",
+  "val-bars-desc": "PAR produit des barres filetées d'un diamètre maximal de 100 mm et d'une longueur maximale de 3 mètres.",
+  "lbl-grade-alt3": "Classe:",
+  "li-grade-ms": "Acier de construction",
+  "li-grade-ht": "à haute résistance"
 }
