@@ -114,5 +114,10 @@
   "li-grade-ht": "hochfest",
   "lbl-finish-alt3": "FINISH",
   "lbl-studs-range": "STEHBOLZEN & DOPPELSTEHBOLZEN:",
-  "val-studs-desc": "PAR stellt Stehbolzen nach ASTM A193 Gr. B7- und doppelendige Bolzen mit einem Durchmesser von ½\" bis 4\" und einer Länge von bis zu 76\"in Zollserien und 8 mm bis 100 mm und einer Länge von bis zu 3 Metern in metrischen Serien."
+  "val-studs-desc": "PAR stellt Stehbolzen nach ASTM A193 Gr. B7- und doppelendige Bolzen mit einem Durchmesser von ½\" bis 4\" und einer Länge von bis zu 76\"in Zollserien und 8 mm bis 100 mm und einer Länge von bis zu 3 Metern in metrischen Serien.",
+  "lbl-grade-alt4": "NOTE:",
+  "val-grade-studs": "B7, B7M, 2H, 2HM",
+  "lbl-de-type": "Doppelendig",
+  "val-de-desc": "Leichter Stahl und hohe Zugfestigkeit",
+  "table2-title": "PAR-STANDARD-SPEZIFIKATIONSTABELLE"
 }
