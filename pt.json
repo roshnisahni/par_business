@@ -99,5 +99,10 @@
   "lbl-grade-alt": "CATEGORIA:",
   "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
   "lbl-finish-alt": "ACABAMENTO",
-  "li-finish-self": "Self, Black"
+  "li-finish-self": "Self, Black",
+  "lbl-washer-range": "GAMA DE ANILHAS:",
+  "li-wash-plain": "Arruelas lisas",
+  "li-wash-heavy": "Arruelas Pesadas",
+  "li-wash-spring": "Arruelas de pressão",
+  "li-wash-hsfg": "Arruelas de aperto de fricção de alta resistência\nde acordo com a exigência do cliente."
 }
