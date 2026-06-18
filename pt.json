@@ -104,5 +104,10 @@
   "li-wash-plain": "Arruelas lisas",
   "li-wash-heavy": "Arruelas Pesadas",
   "li-wash-spring": "Arruelas de pressão",
-  "li-wash-hsfg": "Arruelas de aperto de fricção de alta resistência\nde acordo com a exigência do cliente."
+  "li-wash-hsfg": "Arruelas de aperto de fricção de alta resistência\nde acordo com a exigência do cliente.",
+  "li-wash-req": "conforme\n                a exigência do cliente.",
+  "lbl-finish-alt2": "ACABAMENTO",
+  "lbl-bars-range": "BARRAS ROSCADAS:",
+  "val-bars-desc": "O PAR produz Barras Roscadas com um diâmetro máximo de até 100 mm e Comprimento de até 3 metros.",
+  "lbl-grade-alt3": "CATEGORIA:"
 }
