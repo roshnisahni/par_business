@@ -43,5 +43,10 @@
   "quality-num3": "03-",
   "quality-step3-title": "Technische Kontrollen",
   "quality-step3-desc": "Die Temperatur des Ofens wird regelmäßig mit einem elektronischen Wärmerekorder überprüft.",
-  "quality-num4": "04"
+  "quality-num4": "04",
+  "quality-step4-title": "Endbearbeitung",
+  "quality-step4-desc": "Qualität und Dicke werden vom technischen Personal mit einer bestimmten Häufigkeit überprüft.",
+  "quality-num5": "05",
+  "quality-step5-title": "Letzte Stufe",
+  "quality-step5-desc": "Die Verpackung jedes Artikels ist gekennzeichnet und wird mit einer bestimmten Größe, PO, angegeben. Nr., Gesamtgewicht und Stückzahl pro Packung."
 }
