@@ -109,5 +109,10 @@
   "lbl-finish-alt2": "ACABAMENTO",
   "lbl-bars-range": "BARRAS ROSCADAS:",
   "val-bars-desc": "O PAR produz Barras Roscadas com um diâmetro máximo de até 100 mm e Comprimento de até 3 metros.",
-  "lbl-grade-alt3": "CATEGORIA:"
+  "lbl-grade-alt3": "CATEGORIA:",
+  "li-grade-ms": "Aço macio",
+  "li-grade-ht": "Alta Tensão",
+  "lbl-finish-alt3": "ACABAMENTO",
+  "lbl-studs-range": "PARAFUSOS PRISIONEIROS E PINOS DE EXTREMIDADE DUPLA:",
+  "val-studs-desc": "A PAR está fabricando parafusos prisioneiros de acordo com ASTM A193 Gr. B7 e Pinos de Extremidade Dupla em Dia-½” a 4” e comprimento até 76”em séries de polegadas e 8 mm a 100 mm e comprimento até 3 metros em séries métricas."
 }
