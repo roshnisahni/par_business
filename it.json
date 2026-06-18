@@ -69,5 +69,10 @@
   "nav-range": "Gamma di prodotti",
   "nav-customers": "I nostri clienti",
   "nav-contact": "Contattaci",
-  "breadcrumbs-title": "Gamma di prodotti"
+  "breadcrumbs-title": "Gamma di prodotti",
+  "breadcrumbs-home": "Home",
+  "breadcrumbs-current": "Gamma di prodotti",
+  "table1-title": "Gamma di elementi di fissaggio commerciali e di precisione",
+  "table1-th-dia": "Diametro",
+  "table1-th-len": "Lunghezza (mm)"
 }
