@@ -143,5 +143,10 @@
   "item-hexscrew": "हेक्स स्क्रू",
   "item-studbolt": "स्टड एंड बेंट / यू बोल्ट",
   "contact-addr-title": "हमारा पता",
-  "contact-addr-detail": "D -82, चरण - 5 , C.T.R के पास, फोकल पॉइंट , लुधियाना - 141010"
+  "contact-addr-detail": "D -82, चरण - 5 , C.T.R के पास, फोकल पॉइंट , लुधियाना - 141010",
+  "sector-panel": "इलेक्ट्रिक पैनल",
+  "sector-nuclear": "न्यूक्लियर प्लांट",
+  "sector-oil": "तेल और गैस क्षेत्र",
+  "sector-solar": "सोलर सेक्टर",
+  "sector-bridge": "स्टील ब्रिज का निर्माण"
 }
