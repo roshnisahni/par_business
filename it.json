@@ -94,5 +94,10 @@
   "li-nut-flange": "Dadi flangiati",
   "li-nut-nylock": "Dadi Nylock",
   "li-nut-dome": "Dadi a cupola",
-  "li-nut-comm": "Frutta a guscio"
+  "li-nut-comm": "Frutta a guscio",
+  "li-nut-wheel": "DADI DELLE RUOTE",
+  "lbl-grade-alt": "VALUTAZIONE",
+  "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
+  "lbl-finish-alt": "Finitura:",
+  "li-finish-self": "Self, Black"
 }
