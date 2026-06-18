@@ -148,5 +148,9 @@
   "sector-nuclear": "न्यूक्लियर प्लांट",
   "sector-oil": "तेल और गैस क्षेत्र",
   "sector-solar": "सोलर सेक्टर",
-  "sector-bridge": "स्टील ब्रिज का निर्माण"
+  "sector-bridge": "स्टील ब्रिज का निर्माण",
+  "sector-transformer": "ट्रांसफार्मर सेक्टर",
+  "sector-transmission": "ट्रांसमिशन सेक्टर",
+  "sector-valves": "वाल्व सेक्टर",
+  "portfolio-btn": "मुख पृष्ठ"
 }
