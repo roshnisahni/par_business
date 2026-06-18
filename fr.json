@@ -106,5 +106,10 @@
   "li-finish-black": "Noir, Soi",
   "li-finish-zinc": "Plaqué zinc",
   "li-finish-rilsan": "Bleu Rilsan",
-  "li-finish-hdg": "Galvanisé à chaud"
+  "li-finish-hdg": "Galvanisé à chaud",
+  "lbl-nuts-range": "GAMME D'ÉCROUS :",
+  "li-nut-hex": "Écrous hexagonaux",
+  "li-nut-fric": "force d'adhérence par frottement",
+  "li-nut-sq": "Écrous carrés",
+  "li-nut-flange": "Coffrets, écrous à embase"
 }
