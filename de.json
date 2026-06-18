@@ -89,5 +89,10 @@
   "li-finish-hdg": "Feuerverzinkt",
   "lbl-nuts-range": "NUSSSORTIMENT:",
   "li-nut-hex": "Sechskantmuttern",
-  "li-nut-fric": "Reibungsgriffmuttern"
+  "li-nut-fric": "Reibungsgriffmuttern",
+  "li-nut-sq": "QUADRATISCHE MUTTERN",
+  "li-nut-flange": "Flanschmuttern-Sortimente",
+  "li-nut-nylock": "Nylock-Muttern",
+  "li-nut-dome": "Kuppelmuttern",
+  "li-nut-comm": "Kommerzielle Nüsse"
 }
