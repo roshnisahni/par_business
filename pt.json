@@ -43,5 +43,10 @@
   "quality-num3": "03",
   "quality-step3-title": "Inspeções técnicas",
   "quality-step3-desc": "A temperatura do mobiliário é verificada regularmente com um registador de calor eletrónico.",
-  "quality-num4": "04"
+  "quality-num4": "04",
+  "quality-step4-title": "A concluir",
+  "quality-step4-desc": "A qualidade e a espessura são verificadas pela equipe técnica em frequência específica.",
+  "quality-num5": "05",
+  "quality-step5-title": "Fase final",
+  "quality-step5-desc": "A embalagem de cada item é rotulada e mencionada com Tamanho específico, PO. Nº, Peso total e nº de peças por pacote."
 }
