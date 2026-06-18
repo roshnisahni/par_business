@@ -94,5 +94,10 @@
   "li-nut-flange": "PORCAS CASTELO",
   "li-nut-nylock": "Porcas Nylock",
   "li-nut-dome": "Porcas de cúpula",
-  "li-nut-comm": "Porcas Comerciais"
+  "li-nut-comm": "Porcas Comerciais",
+  "li-nut-wheel": "Fêmeas de roda",
+  "lbl-grade-alt": "CATEGORIA:",
+  "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
+  "lbl-finish-alt": "ACABAMENTO",
+  "li-finish-self": "Self, Black"
 }
