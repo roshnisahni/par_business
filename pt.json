@@ -114,5 +114,10 @@
   "li-grade-ht": "Alta Tensão",
   "lbl-finish-alt3": "ACABAMENTO",
   "lbl-studs-range": "PARAFUSOS PRISIONEIROS E PINOS DE EXTREMIDADE DUPLA:",
-  "val-studs-desc": "A PAR está fabricando parafusos prisioneiros de acordo com ASTM A193 Gr. B7 e Pinos de Extremidade Dupla em Dia-½” a 4” e comprimento até 76”em séries de polegadas e 8 mm a 100 mm e comprimento até 3 metros em séries métricas."
+  "val-studs-desc": "A PAR está fabricando parafusos prisioneiros de acordo com ASTM A193 Gr. B7 e Pinos de Extremidade Dupla em Dia-½” a 4” e comprimento até 76”em séries de polegadas e 8 mm a 100 mm e comprimento até 3 metros em séries métricas.",
+  "lbl-grade-alt4": "CATEGORIA:",
+  "val-grade-studs": "B7, B7M, 2H, 2HM",
+  "lbl-de-type": "Lâmpadas com dois casquilhos",
+  "val-de-desc": "Aço macio e alta resistência",
+  "table2-title": "TABELA DE ESPECIFICAÇÕES DO PADRÃO PAR"
 }
