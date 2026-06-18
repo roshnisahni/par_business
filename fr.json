@@ -67,5 +67,10 @@
   "nav-home": "Accueil",
   "nav-about": "À propos de nous",
   "nav-services": "Services",
-  "nav-quality": "politiques sur la qualité;"
+  "nav-quality": "politiques sur la qualité;",
+  "nav-products": "Niveaux scolaires",
+  "nav-range": "Gamme de produits",
+  "nav-customers": "Nos clients",
+  "nav-contact": "Nous contacter",
+  "breadcrumbs-title": "Nos clients"
 }
