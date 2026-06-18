@@ -33,5 +33,10 @@
   "service3-desc2": "Estas porcas de barra são usadas em muitos setores. As máquinas Trop nos permitem fazer porcas de barra de acordo com os desenhos e especificações do cliente também.",
   "quality-title": "Políticas de qualidade",
   "quality-num1": "01",
-  "quality-step1-title": "Entrada de Matérias-Primas"
+  "quality-step1-title": "Entrada de Matérias-Primas",
+  "quality-step1-desc": "Compre matérias-primas com certificado de teste para verificar propriedades como composição química e propriedades mecânicas.",
+  "quality-num2": "02",
+  "quality-step2-title": "Processo Produtivo",
+  "quality-step2-desc1": "-Estadiar a inspeção sábia em frequência específica.",
+  "quality-step2-desc2": "- Diâmetro do fio."
 }
