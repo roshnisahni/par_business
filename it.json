@@ -33,5 +33,10 @@
   "service3-desc2": "Questi dadi a barra sono utilizzati in molti settori. Le macchine Trop ci consentono di realizzare dadi a barra anche secondo i disegni e le specifiche del cliente.",
   "quality-title": "Politiche per la qualità",
   "quality-num1": "01",
-  "quality-step1-title": "MATERIE PRIME IN INGRESSO"
+  "quality-step1-title": "MATERIE PRIME IN INGRESSO",
+  "quality-step1-desc": "Acquisto di materie prime con certificato di prova per il controllo di proprietà come composizione chimica e proprietà meccaniche.",
+  "quality-num2": "02",
+  "quality-step2-title": "Processo produttivo",
+  "quality-step2-desc1": "- Ispezione in fase a frequenza specifica.",
+  "quality-step2-desc2": "- Diametro del filo."
 }
