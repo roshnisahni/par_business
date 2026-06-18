@@ -124,5 +124,10 @@
   "table2-th-std": "Padrão",
   "table2-th-item": "Item",
   "table2-th-mech": "Mecânica",
-  "table2-th-dim": "Dimensão"
+  "table2-th-dim": "Dimensão",
+  "item-hexbolt": "Parafuso sextavado",
+  "item-hhexbolt": "Parafuso Sextavado Pesado",
+  "item-structbolt": "PARAFUSO Estrutural Sextavado",
+  "item-coachbolt": "Parafuso do Coach / Carriage",
+  "item-hexscrew": "Parafuso Hex."
 }
