@@ -38,5 +38,10 @@
   "quality-num2": "02",
   "quality-step2-title": "Processo Produtivo",
   "quality-step2-desc1": "-Estadiar a inspeção sábia em frequência específica.",
-  "quality-step2-desc2": "- Diâmetro do fio."
+  "quality-step2-desc2": "- Diâmetro do fio.",
+  "quality-step2-desc3": "- As 5 primeiras peças são verificadas e aprovadas pelo supervisor.",
+  "quality-num3": "03",
+  "quality-step3-title": "Inspeções técnicas",
+  "quality-step3-desc": "A temperatura do mobiliário é verificada regularmente com um registador de calor eletrónico.",
+  "quality-num4": "04"
 }
