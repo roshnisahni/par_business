@@ -69,5 +69,10 @@
   "nav-range": "Produktauswahl",
   "nav-customers": "Unsere Kunden",
   "nav-contact": "Kontakt",
-  "breadcrumbs-title": "Produktauswahl"
+  "breadcrumbs-title": "Produktauswahl",
+  "breadcrumbs-home": "Home",
+  "breadcrumbs-current": "Produktauswahl",
+  "table1-title": "Sortiment an kommerziellen & Präzisionsbefestigungen",
+  "table1-th-dia": "Durchmesser",
+  "table1-th-len": "Länge (mm)"
 }
