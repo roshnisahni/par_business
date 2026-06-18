@@ -146,5 +146,9 @@
   "table2-th-mech": "Mécanique",
   "table2-th-dim": "Dimensionnel :",
   "item-hexbolt": "Boulon Hexagonal",
-  "item-hhexbolt": "Boulon hexagonal lourd"
+  "item-hhexbolt": "Boulon hexagonal lourd",
+  "item-structbolt": "BOULON structurel hexagonal",
+  "item-coachbolt": "Boulon du carrosse / chariot",
+  "item-hexscrew": "Vis hexagonale",
+  "item-studbolt": "Goujon et plié /Boulon en U"
 }
