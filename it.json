@@ -74,5 +74,10 @@
   "breadcrumbs-current": "Gamma di prodotti",
   "table1-title": "Gamma di elementi di fissaggio commerciali e di precisione",
   "table1-th-dia": "Diametro",
-  "table1-th-len": "Lunghezza (mm)"
+  "table1-th-len": "Lunghezza (mm)",
+  "table1-th-cold": "Forgiato a freddo",
+  "table1-th-hot": "Riccio fucinato",
+  "lbl-bolts-range": "GAMMA DI BULLONI:",
+  "li-cold-forg": "Stampaggio a freddo (da M4 a M30)",
+  "li-hot-forg": "Stampaggio a caldo (da M10 a M80)"
 }
