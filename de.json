@@ -137,5 +137,10 @@
   "portfolio-desc": "Wir liefern unsere Produkte in folgende Branchen.",
   "sector-agri": "Agrar-Sektor ",
   "sector-auto": "Auto-Sektor",
-  "sector-build": "Bauwesen und Konstruktion"
+  "sector-build": "Bauwesen und Konstruktion",
+  "sector-cycle": "Fahrradindustrie",
+  "sector-panel": "Schalttafel",
+  "sector-nuclear": "KERNANLAGE",
+  "sector-oil": "chen Öl und Gas ausgelegt.",
+  "sector-solar": "Solarbranche"
 }
