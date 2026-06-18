@@ -89,5 +89,10 @@
   "li-finish-hdg": "zincata a caldo",
   "lbl-nuts-range": "GAMMA DI DADI:",
   "li-nut-hex": "dadi esagonali",
-  "li-nut-fric": "Dadi di presa ad attrito"
+  "li-nut-fric": "Dadi di presa ad attrito",
+  "li-nut-sq": "Dadi quadri",
+  "li-nut-flange": "Dadi flangiati",
+  "li-nut-nylock": "Dadi Nylock",
+  "li-nut-dome": "Dadi a cupola",
+  "li-nut-comm": "Frutta a guscio"
 }
