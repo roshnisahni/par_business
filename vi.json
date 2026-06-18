@@ -98,5 +98,10 @@
   "table2-th-std": "Tiêu chuẩn",
   "table2-th-item": "Hạng mục",
   "table2-th-mech": "Cơ học",
-  "table2-th-dim": "kích cỡ"
+  "table2-th-dim": "kích cỡ",
+  "item-hexbolt": "Bu lông lục giác",
+  "item-hhexbolt": "Bu lông lục giác nặng",
+  "item-structbolt": "BU lông kết cấu LỤC GIÁC",
+  "item-coachbolt": "Huấn luyện viên / Bu lông vận chuyển",
+  "item-hexscrew": "Vít lục giác"
 }
