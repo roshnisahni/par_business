@@ -68,5 +68,10 @@
   "table2-th-std": "일반",
   "table2-th-item": "아이템",
   "table2-th-mech": "기계",
-  "table2-th-dim": "차원"
+  "table2-th-dim": "차원",
+  "item-hexbolt": "육각 볼트",
+  "item-hhexbolt": "헤비 육각 볼트",
+  "item-structbolt": "육각 구조 볼트",
+  "item-coachbolt": "코치/캐리지 볼트",
+  "item-hexscrew": "육각 나사"
 }
