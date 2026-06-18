@@ -64,5 +64,10 @@
   "nav-home": "Casa",
   "nav-about": "Quem Somos",
   "nav-services": "Serviços",
-  "nav-quality": "Políticas de qualidade"
+  "nav-quality": "Políticas de qualidade",
+  "nav-products": "Artigos",
+  "nav-range": "Gama de Produtos",
+  "nav-customers": "Os nossos Clientes",
+  "nav-contact": "Contacte-nos",
+  "breadcrumbs-title": "Gama de Produtos"
 }
