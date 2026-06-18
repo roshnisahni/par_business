@@ -119,5 +119,10 @@
   "val-grade-studs": "B7, B7M, 2H, 2HM",
   "lbl-de-type": "Lâmpadas com dois casquilhos",
   "val-de-desc": "Aço macio e alta resistência",
-  "table2-title": "TABELA DE ESPECIFICAÇÕES DO PADRÃO PAR"
+  "table2-title": "TABELA DE ESPECIFICAÇÕES DO PADRÃO PAR",
+  "table2-th-sr": "Nº Sr.",
+  "table2-th-std": "Padrão",
+  "table2-th-item": "Item",
+  "table2-th-mech": "Mecânica",
+  "table2-th-dim": "Dimensão"
 }
