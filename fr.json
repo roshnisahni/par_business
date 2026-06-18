@@ -91,5 +91,10 @@
   "sector-valves": "Secteur des vannes",
   "portfolio-btn": "Accueil",
   "contact-addr-title": "Où nous trouver",
-  "contact-addr-detail": "D-82, Phase - 5 , près de C.T.R , point focal, Ludhiana - 141010"
+  "contact-addr-detail": "D-82, Phase - 5 , près de C.T.R , point focal, Ludhiana - 141010",
+  "table1-title": "Gamme de fixations commerciales et de précision",
+  "table1-th-dia": "Diamètre",
+  "table1-th-len": "Longueur (mm)",
+  "table1-th-cold": "Forgeage",
+  "table1-th-hot": "Forgé à chaud"
 }
