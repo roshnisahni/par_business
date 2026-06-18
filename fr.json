@@ -131,5 +131,10 @@
   "val-bars-desc": "PAR produit des barres filetées d'un diamètre maximal de 100 mm et d'une longueur maximale de 3 mètres.",
   "lbl-grade-alt3": "Classe:",
   "li-grade-ms": "Acier de construction",
-  "li-grade-ht": "à haute résistance"
+  "li-grade-ht": "à haute résistance",
+  "lbl-finish-alt3": "FINITION :",
+  "lbl-studs-range": "BOULONS À GOUJONS ET GOUJONS À DOUBLE EXTRÉMITÉ :",
+  "val-studs-desc": "PAR fabrique des boulons à goujons selon la norme ASTM A193 Gr. B7 et goujons à double extrémité en série dia-½\" à 4\" et longueur jusqu'à 76\"en série pouces et 8 mm à 100 mm et longueur jusqu'à 3 mètres en série métrique.",
+  "lbl-grade-alt4": "Classe:",
+  "val-grade-studs": "B7, B7M, 2H, 2HM"
 }
