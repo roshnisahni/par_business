@@ -138,5 +138,10 @@
   "portfolio-desc": "Forniamo i nostri prodotti ai seguenti settori.",
   "sector-agri": "Comparto Agricoltura",
   "sector-auto": "Settore Auto",
-  "sector-build": "Edilizia e Cantieri"
+  "sector-build": "Edilizia e Cantieri",
+  "sector-cycle": "Industria del ciclo",
+  "sector-panel": "Quadro elettrico",
+  "sector-nuclear": "Energia nucleare",
+  "sector-oil": "Settore Oil & Gas",
+  "sector-solar": "Settore solare"
 }
