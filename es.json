@@ -110,5 +110,10 @@
   "service3-desc2": "Estas tuercas de barra se utilizan en muchos sectores. Las máquinas Trop también nos permiten hacer tuercas de barra según los planos y especificaciones del cliente.",
   "quality-title": "Políticas de Calidad",
   "quality-num1": "01",
-  "quality-step1-title": "Materias primas entrantes "
+  "quality-step1-title": "Materias primas entrantes ",
+  "quality-step1-desc": "Compre materias primas con certificado de prueba para verificar propiedades como la composición química y las propiedades mecánicas.",
+  "quality-num2": "02",
+  "quality-step2-title": "Proceso de producción",
+  "quality-step2-desc1": "-Inspección por etapas a una frecuencia específica.",
+  "quality-step2-desc2": "- Diámetro del alambre."
 }
