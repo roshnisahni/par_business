@@ -68,5 +68,10 @@
   "item-hhexbolt": "Perno hexagonal pesado",
   "item-structbolt": "PERNO ESTRUCTURAL HEXAGONAL",
   "item-coachbolt": "Perno de autocar / carro",
-  "item-hexscrew": "Tornillo hexagonal"
+  "item-hexscrew": "Tornillo hexagonal",
+  "item-studbolt": "Espárrago y perno doblado /en U",
+  "contact-title": "Contáctanos",
+  "contact-addr-title": "Dirección",
+  "contact-addr-detail": "D-82, Fase - 5 , cerca de C.T.R , punto focal, Ludhiana - 141010",
+  "contact-email-title": "Envíanos un correo electrónico"
 }
