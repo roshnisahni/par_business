@@ -1,12 +1,12 @@
 {
-  "menu-home": "المنزل ",
-  "menu-about": "من نحن",
-  "menu-services": ".1الخدمات",
-  "menu-quality": "سياسات جودة البيانات",
-  "menu-products": "المنتجات",
-  "menu-product-range": "نطاق المنتج",
-  "menu-customers": "عملائنا",
-  "menu-contact": "تواصل معنا",
-  "welcome": "مرحبًا بك في PAR\nالشركات الرائدة في تصنيع المثبتات في الهند!\nقراءة المزيد",
-  "slide1-subtitle": "المثبتات الرئيسية\n                  المصنعين في الهند!"
+  "meta-title": "PAR Industries",
+  "nav-home": "المنزل ",
+  "nav-about": "من نحن",
+  "nav-services": ".1الخدمات",
+  "nav-quality": "سياسات جودة البيانات",
+  "nav-products": "المنتجات",
+  "nav-range": "نطاق المنتج",
+  "nav-customers": "عملائنا",
+  "nav-contact": "تواصل معنا",
+  "breadcrumbs-title": "عملائنا"
 }
