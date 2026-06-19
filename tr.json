@@ -133,5 +133,10 @@
   "contact-email-2": "export.parfast@gmail.com",
   "contact-phone-text": "+91 85580 04122 - Bay Rishab Kapoor\n+91 93567 23067 - Bay Pawan Kapoor",
   "contact-phone-1": "+91 85580 04122 - Bay Rishab\n                  Kapoor",
-  "contact-phone-2": "+91 93567 23067 - Bay Pawan Kapoor"
+  "contact-phone-2": "+91 93567 23067 - Bay Pawan Kapoor",
+  "portfolio-title": "Müşterilerimiz",
+  "portfolio-desc": "Ürünlerimizi aşağıdaki sektörlere tedarik ediyoruz.",
+  "sector-agri": " <g id=\"1\"> Tarım Sektörü:</g>",
+  "sector-auto": "Oto Sektör",
+  "sector-build": "Yapı ve inşaat"
 }
