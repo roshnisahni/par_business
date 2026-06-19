@@ -58,5 +58,10 @@
   "val-grade-studs": "B7، B7M، 2H، 2HM",
   "lbl-de-type": "مسمار صليبة مزدوج",
   "val-de-desc": "الفولاذ الطري والشد العالي",
-  "table2-title": "جدول المواصفات القياسية PAR"
+  "table2-title": "جدول المواصفات القياسية PAR",
+  "table2-th-sr": "م.",
+  "table2-th-std": "ستاندر",
+  "table2-th-item": "الصنف",
+  "table2-th-mech": "الهندسة الميكانيكية",
+  "table2-th-dim": "بُعدي ـ نسبة للأبعاد"
 }
