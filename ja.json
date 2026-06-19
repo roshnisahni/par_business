@@ -85,5 +85,10 @@
   "portfolio-desc": "当社は、以下の業界に製品を供給しています。",
   "sector-agri": "農業部門",
   "sector-auto": "オートセクター",
-  "sector-build": "建築および建設"
+  "sector-build": "建築および建設",
+  "sector-cycle": "サイクル産業",
+  "sector-panel": "電気パネル",
+  "sector-nuclear": "原子力発電所",
+  "sector-oil": "石油・ガス部門",
+  "sector-solar": "ソーラーセクター"
 }
