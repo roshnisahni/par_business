@@ -100,5 +100,10 @@
   "portfolio-desc": "Wij leveren onze producten aan de volgende branches.",
   "sector-agri": "Landbouwsector",
   "sector-auto": "Autosector",
-  "sector-build": "Bouw en constructie"
+  "sector-build": "Bouw en constructie",
+  "sector-cycle": "Cyclusindustrie",
+  "sector-panel": "elektrisch paneel",
+  "sector-nuclear": "Kerncentrale",
+  "sector-oil": "Olie- en gassector",
+  "sector-solar": "DE SOLAR BRAnCHE"
 }
