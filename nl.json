@@ -53,5 +53,10 @@
   "li-nut-flange": "Flensmoeren",
   "li-nut-nylock": "Nylock moeren",
   "li-nut-dome": "Koepelmoeren",
-  "li-nut-comm": "Commerciële noten"
+  "li-nut-comm": "Commerciële noten",
+  "li-nut-wheel": "Achterwiel bouten",
+  "lbl-grade-alt": "GRAAD",
+  "val-grade-nuts": "Gr.4, 5, 6, 8, 10, 12, 2H, S, T, U, V",
+  "lbl-finish-alt": "AFWERKING:",
+  "li-finish-self": "Zelf, Zwart"
 }
