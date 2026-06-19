@@ -115,5 +115,10 @@
   "quality-num2": "02",
   "quality-step2-title": "Proces produkcyjny",
   "quality-step2-desc1": "- Kontrola etapowa z określoną częstotliwością.",
-  "quality-step2-desc2": "- Średnica drutu."
+  "quality-step2-desc2": "- Średnica drutu.",
+  "quality-step2-desc3": "- Pierwsze 5 sztuk jest sprawdzane i zatwierdzane przez przełożonego.",
+  "quality-num3": "03",
+  "quality-step3-title": "Inspekcja techniczna",
+  "quality-step3-desc": "Temperatura pieca jest regularnie sprawdzana za pomocą elektronicznego rejestratora ciepła.",
+  "quality-num4": "04"
 }
