@@ -120,5 +120,10 @@
   "sector-panel": "Bảng phân phối",
   "sector-nuclear": "Nhà máy hạt nhân",
   "sector-oil": "Lĩnh vực dầu khí",
-  "sector-solar": "Lĩnh vực năng lượng mặt trời"
+  "sector-solar": "Lĩnh vực năng lượng mặt trời",
+  "sector-bridge": "Thi công cầu thép",
+  "sector-transformer": "Ngành máy biến áp",
+  "sector-transmission": "Lĩnh vực truyền dẫn",
+  "sector-valves": "Lĩnh vực van",
+  "portfolio-btn": "Trang chủ"
 }
