@@ -73,5 +73,10 @@
   "item-hhexbolt": "Ciężka śruba sześciokątna",
   "item-structbolt": "ŚRUBA konstrukcyjna sześciokątna",
   "item-coachbolt": "Śruba do wagonu osobowego/ karetki",
-  "item-hexscrew": "Śruba sześciokątna"
+  "item-hexscrew": "Śruba sześciokątna",
+  "item-studbolt": "Śruba DWUSTRONNA i wygięta / W kształcie litery U",
+  "contact-title": "Kontakt",
+  "contact-addr-title": "Adres",
+  "contact-addr-detail": "D-82, Faza - 5 , w pobliżu CTR , punkt ogniskowy, Ludhiana - 141010",
+  "contact-email-title": "Napisz do nas"
 }
