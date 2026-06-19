@@ -1,1 +1,7 @@
-{}
+{
+  "menu-home": "Inicio",
+  "menu-about": "¿Quiénes somos?",
+  "menu-services": "Servicios",
+  "menu-quality": "Políticas de Calidad",
+  "menu-products": "Productos"
+}
