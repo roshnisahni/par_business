@@ -83,5 +83,10 @@
   "table2-th-std": "Standaard",
   "table2-th-item": "Post",
   "table2-th-mech": "Mechanisch",
-  "table2-th-dim": "Dimensie"
+  "table2-th-dim": "Dimensie",
+  "item-hexbolt": "Zeskantbout",
+  "item-hhexbolt": "Zware zeskantbout",
+  "item-structbolt": "Zeskantbout",
+  "item-coachbolt": "Bus- /wagenbout",
+  "item-hexscrew": "Zeskantschroef."
 }
