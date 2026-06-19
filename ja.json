@@ -80,5 +80,10 @@
   "contact-addr-detail": "D -82, Phase - 5, near C.T.R, focal point, Ludhiana - 141010",
   "contact-email-title": "メールでお問いあわせ",
   "contact-phone-title": "お問合せ",
-  "footer-credits": "デザイナー： Seoura"
+  "footer-credits": "デザイナー： Seoura",
+  "portfolio-title": "当社のお客様",
+  "portfolio-desc": "当社は、以下の業界に製品を供給しています。",
+  "sector-agri": "農業部門",
+  "sector-auto": "オートセクター",
+  "sector-build": "建築および建設"
 }
