@@ -8,10 +8,15 @@
   "nav-range": "نطاق المنتج",
   "nav-customers": "عملائنا",
   "nav-contact": "تواصل معنا",
-  "breadcrumbs-title": "نطاق المنتج",
+  "breadcrumbs-title": "عملائنا",
   "breadcrumbs-home": "المنزل ",
-  "breadcrumbs-current": "نطاق المنتج",
-  "table1-title": "مجموعة من المثبتات التجارية والدقيقة",
-  "table1-th-dia": "القطر",
-  "table1-th-len": "الطول (ملم)"
+  "breadcrumbs-current": "عملائنا",
+  "portfolio-title": "عملائنا",
+  "portfolio-desc": "نحن نورد منتجاتنا إلى الصناعات التالية.",
+  "sector-agri": "قطاع الزراعة",
+  "sector-auto": "قطاع السيارات",
+  "sector-build": "البناء والتشييد",
+  "sector-cycle": "صناعة الدورات",
+  "sector-panel": "لوحة كهربائية",
+  "sector-nuclear": "طاقة نووية"
 }
