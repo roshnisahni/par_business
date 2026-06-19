@@ -8,10 +8,15 @@
   "nav-range": "Gama de productos",
   "nav-customers": "Nuestros clientes",
   "nav-contact": "Contáctanos",
-  "breadcrumbs-title": "Nuestros clientes",
+  "breadcrumbs-title": "Gama de productos",
   "breadcrumbs-home": "Inicio",
-  "breadcrumbs-current": "Nuestros clientes",
-  "portfolio-title": "Nuestros clientes",
-  "portfolio-desc": "Suministramos nuestros productos a las siguientes industrias.",
-  "sector-agri": "Aspectos generales del"
+  "breadcrumbs-current": "Gama de productos",
+  "table1-title": "Gama de sujetadores comerciales y de precisión",
+  "table1-th-dia": "Diámetro",
+  "table1-th-len": "Largo (mm)",
+  "table1-th-cold": "Forjado en frío",
+  "table1-th-hot": "Forjado en caliente",
+  "lbl-bolts-range": "RANGO DE PERNOS:",
+  "li-cold-forg": "Forjado en frío (M4 a M30)",
+  "li-hot-forg": "Forjado en caliente (M10 a M80)"
 }
