@@ -110,5 +110,10 @@
   "portfolio-desc": "نحن نورد منتجاتنا إلى الصناعات التالية.",
   "sector-agri": "قطاع الزراعة",
   "sector-auto": "قطاع السيارات",
-  "sector-build": "البناء والتشييد"
+  "sector-build": "البناء والتشييد",
+  "sector-cycle": "صناعة الدورات",
+  "sector-panel": "لوحة كهربائية",
+  "sector-nuclear": "طاقة نووية",
+  "sector-oil": "قطاع النفط والغاز",
+  "sector-solar": "قطاع الطاقة الشمسية"
 }
