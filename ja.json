@@ -90,5 +90,10 @@
   "sector-panel": "電気パネル",
   "sector-nuclear": "原子力発電所",
   "sector-oil": "石油・ガス部門",
-  "sector-solar": "ソーラーセクター"
+  "sector-solar": "ソーラーセクター",
+  "sector-bridge": "鋼橋梁工事",
+  "sector-transformer": "変圧器セクター",
+  "sector-transmission": "1)トランスミッションセクター ",
+  "sector-valves": "バルブセクター",
+  "portfolio-btn": "ホーム"
 }
