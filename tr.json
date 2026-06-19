@@ -115,5 +115,10 @@
   "quality-num2": "02",
   "quality-step2-title": "Üretim Süreci",
   "quality-step2-desc1": "- Belirli bir frekansta aşamalı denetim.",
-  "quality-step2-desc2": "- Tel çapı."
+  "quality-step2-desc2": "- Tel çapı.",
+  "quality-step2-desc3": "- İlk 5 parça kontrol edilir ve süpervizör tarafından onaylanır.",
+  "quality-num3": "03",
+  "quality-step3-title": "Teknik Denetim",
+  "quality-step3-desc": "Fırın sıcaklığı elektronik ısı kaydedici ile düzenli olarak kontrol edilir.",
+  "quality-num4": "04"
 }
