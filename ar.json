@@ -63,5 +63,10 @@
   "table2-th-std": "ستاندر",
   "table2-th-item": "الصنف",
   "table2-th-mech": "الهندسة الميكانيكية",
-  "table2-th-dim": "بُعدي ـ نسبة للأبعاد"
+  "table2-th-dim": "بُعدي ـ نسبة للأبعاد",
+  "item-hexbolt": "برغي سداسي الرأس",
+  "item-hhexbolt": "مسمار سداسي ثقيل",
+  "item-structbolt": "مسمار هيكلي سداسي",
+  "item-coachbolt": "مسمار الحافلة / النقل",
+  "item-hexscrew": "برغي غطاء سداسي"
 }
