@@ -23,5 +23,10 @@
   "sector-build": "Yapı ve inşaat",
   "sector-cycle": "Döngü Endüstrisi",
   "sector-panel": "Elektrik Panosu",
-  "sector-nuclear": "Nükleer Santral"
+  "sector-nuclear": "Nükleer Santral",
+  "sector-oil": "Petrol ve Gaz sektörü",
+  "sector-solar": "Güneş Sektörü",
+  "sector-bridge": "Çelik köprü yapımı",
+  "sector-transformer": "Trafo Sektörü",
+  "sector-transmission": "İletim Sektörü"
 }
