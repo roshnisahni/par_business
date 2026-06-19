@@ -105,5 +105,10 @@
   "service2-name": "Forja en caliente",
   "service2-desc1": "PAR Industries tiene una configuración de fabricación interna para forjar en caliente pernos y tuercas de mayor diámetro.",
   "service2-desc2": "Desde pernos hexagonales estándar hasta cabezas de formas especiales totalmente personalizadas. Tenemos la capacidad de forjar miles de tamaños y formas con una precisión excepcional, precisión dimensional, resistencia a la corrosión y estándares duraderos.",
-  "service3-name": "Instalaciones Trop"
+  "service3-name": "Instalaciones Trop",
+  "service3-desc1": "PAR Industries tiene máquinas Trop que nos permiten hacer variedades de nueces en barra de la gama de 5/16, 3/8, 1/2, 5/8, 3/4, 7/16, 1 y 1.1/4.",
+  "service3-desc2": "Estas tuercas de barra se utilizan en muchos sectores. Las máquinas Trop también nos permiten hacer tuercas de barra según los planos y especificaciones del cliente.",
+  "quality-title": "Políticas de Calidad",
+  "quality-num1": "01",
+  "quality-step1-title": "Materias primas entrantes "
 }
