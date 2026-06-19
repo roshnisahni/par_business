@@ -143,5 +143,10 @@
   "sector-panel": ".",
   "sector-nuclear": "Elektrownia jądrowa",
   "sector-oil": "Sektor naftowo-gazowy",
-  "sector-solar": "Sektor energii słonecznej"
+  "sector-solar": "Sektor energii słonecznej",
+  "sector-bridge": "Konstrukcja mostu stalowego",
+  "sector-transformer": "Branża transformatorowa",
+  "sector-transmission": "Sektor przesyłowy",
+  "sector-valves": "Sektor zaworów",
+  "portfolio-btn": "Dom"
 }
