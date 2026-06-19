@@ -120,5 +120,10 @@
   "quality-num3": "03",
   "quality-step3-title": "Teknik Denetim",
   "quality-step3-desc": "Fırın sıcaklığı elektronik ısı kaydedici ile düzenli olarak kontrol edilir.",
-  "quality-num4": "04"
+  "quality-num4": "04",
+  "quality-step4-title": "Bitirme",
+  "quality-step4-desc": "Kalite ve kalınlık teknik personel tarafından belirli sıklıkta kontrol edilir.",
+  "quality-num5": "05",
+  "quality-step5-title": "Nihai aşama",
+  "quality-step5-desc": "Her öğenin ambalajı etiketlenir ve belirli Boyut, PO ile belirtilir. No., Toplam ağırlık ve paket başına parça sayısı."
 }
