@@ -1,12 +1,17 @@
 {
-  "meta-title": "PAR INDUSTRIES",
-  "nav-home": "Inicio",
-  "nav-about": "¿Quiénes somos?",
-  "nav-services": "Servicios",
-  "nav-quality": "Políticas de Calidad",
-  "nav-products": "Productos",
-  "nav-range": "Gama de productos",
-  "nav-customers": "Nuestros clientes",
-  "nav-contact": "Contáctanos",
-  "breadcrumbs-title": "Gama de productos"
+  "menu-home": "Inicio",
+  "menu-about": "¿Quiénes somos?",
+  "menu-services": "Servicios",
+  "menu-quality": "Políticas de Calidad",
+  "menu-products": "Productos",
+  "menu-product-range": "Gama de productos",
+  "menu-customers": "Nuestros clientes",
+  "menu-contact": "Contáctanos",
+  "welcome": "Bienvenido a PAR\n¡Los principales fabricantes de sujetadores en la India!\nMás información",
+  "slide1-subtitle": "Los sujetadores líderes\n                  fabricantes en la India!",
+  "btn-read-more": "Read more",
+  "slide2-title": "Sujetadores que se diseñan utilizando\n                  materiales de alta calidad y está de acuerdo con las especificaciones internacionales actuales.",
+  "btn-product-range": "Gama de productos",
+  "slide3-title": "Incluye forja en caliente y en frío\n                  instalaciones de fabricación.",
+  "btn-services": "Servicios"
 }
