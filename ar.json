@@ -8,5 +8,10 @@
   "nav-range": "نطاق المنتج",
   "nav-customers": "عملائنا",
   "nav-contact": "تواصل معنا",
-  "breadcrumbs-title": "نطاق المنتج"
+  "breadcrumbs-title": "عملائنا",
+  "breadcrumbs-home": "المنزل ",
+  "breadcrumbs-current": "عملائنا",
+  "portfolio-title": "عملائنا",
+  "portfolio-desc": "نحن نورد منتجاتنا إلى الصناعات التالية.",
+  "sector-agri": "قطاع الزراعة"
 }
