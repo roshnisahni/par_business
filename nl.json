@@ -73,5 +73,10 @@
   "li-grade-ht": "hoogwaardig",
   "lbl-finish-alt3": "AFWERKING:",
   "lbl-studs-range": "STIFTBOUTEN EN DUBBELZIJDIGE STIFTBOUTEN :",
-  "val-studs-desc": "PAR produceert stiftbouten volgens ASTM A193 Gr. B7 en dubbelzijdige noppen in dia -½\" tot 4\" en lengte tot 76\"in inch serie en 8 mm tot 100 mm en lengte tot 3 meter in metrische serie."
+  "val-studs-desc": "PAR produceert stiftbouten volgens ASTM A193 Gr. B7 en dubbelzijdige noppen in dia -½\" tot 4\" en lengte tot 76\"in inch serie en 8 mm tot 100 mm en lengte tot 3 meter in metrische serie.",
+  "lbl-grade-alt4": "GRAAD",
+  "val-grade-studs": "B7, B7M, 2H, 2HM",
+  "lbl-de-type": "Dubbele fitting",
+  "val-de-desc": "Zacht staal en hoge treksterkte",
+  "table2-title": "PAR STANDAARD SPECIFICATIETABEL"
 }
