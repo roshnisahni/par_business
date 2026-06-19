@@ -120,5 +120,10 @@
   "quality-num3": "03",
   "quality-step3-title": "Inspecciones técnicas",
   "quality-step3-desc": "La temperatura del horno se comprueba regularmente con un registrador de calor electrónico.",
-  "quality-num4": "04"
+  "quality-num4": "04",
+  "quality-step4-title": "Acabando",
+  "quality-step4-desc": "La calidad y el grosor son verificados por el personal técnico con una frecuencia específica.",
+  "quality-num5": "05",
+  "quality-step5-title": "Etapas finales",
+  "quality-step5-desc": "El embalaje de cada artículo está etiquetado y mencionado con un tamaño específico, PO. Nº, Peso total y nº de piezas por paquete."
 }
