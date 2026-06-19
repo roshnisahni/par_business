@@ -78,5 +78,10 @@
   "val-grade-studs": "B7, B7M, 2H, 2HM",
   "lbl-de-type": "Dubbele fitting",
   "val-de-desc": "Zacht staal en hoge treksterkte",
-  "table2-title": "PAR STANDAARD SPECIFICATIETABEL"
+  "table2-title": "PAR STANDAARD SPECIFICATIETABEL",
+  "table2-th-sr": "Serienr.",
+  "table2-th-std": "Standaard",
+  "table2-th-item": "Post",
+  "table2-th-mech": "Mechanisch",
+  "table2-th-dim": "Dimensie"
 }
