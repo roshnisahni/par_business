@@ -143,5 +143,10 @@
   "sector-panel": "Elektrik Panosu",
   "sector-nuclear": "Nükleer Santral",
   "sector-oil": "Petrol ve Gaz sektörü",
-  "sector-solar": "Güneş Sektörü"
+  "sector-solar": "Güneş Sektörü",
+  "sector-bridge": "Çelik köprü yapımı",
+  "sector-transformer": "Trafo Sektörü",
+  "sector-transmission": "İletim Sektörü",
+  "sector-valves": "Vanalar Sektörü",
+  "portfolio-btn": "Anasayfa"
 }
