@@ -76,9 +76,9 @@
   "contact-email-title": "راسلنا عبر البريد الإلكتروني",
   "contact-phone-title": "اتصل بنا",
   "footer-credits": "صمم بواسطة Seoura",
-  "menu-home": "المنزل ",
-  "menu-about": "من نحن",
-  "menu-services": ".1الخدمات",
-  "menu-quality": "سياسات جودة البيانات",
-  "menu-products": "المنتجات"
+  "portfolio-title": "عملائنا",
+  "portfolio-desc": "نحن نورد منتجاتنا إلى الصناعات التالية.",
+  "sector-agri": "قطاع الزراعة",
+  "sector-auto": "قطاع السيارات",
+  "sector-build": "البناء والتشييد"
 }
