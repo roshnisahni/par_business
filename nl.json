@@ -105,5 +105,10 @@
   "sector-panel": "elektrisch paneel",
   "sector-nuclear": "Kerncentrale",
   "sector-oil": "Olie- en gassector",
-  "sector-solar": "DE SOLAR BRAnCHE"
+  "sector-solar": "DE SOLAR BRAnCHE",
+  "sector-bridge": "Stalen brugconstructie",
+  "sector-transformer": "Transformatorsector",
+  "sector-transmission": "Transmissiesector",
+  "sector-valves": "Sector kleppen",
+  "portfolio-btn": "Home"
 }
