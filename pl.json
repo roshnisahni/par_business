@@ -1,12 +1,17 @@
 {
-  "meta-title": "PAR INDUSTRIES",
-  "nav-home": "Dom",
-  "nav-about": "O nas",
-  "nav-services": "Usługi",
-  "nav-quality": "Polityka jakości",
-  "nav-products": "Wyroby",
-  "nav-range": "Oferta Produktów",
-  "nav-customers": "Nasi Klienci",
-  "nav-contact": "Kontakt",
-  "breadcrumbs-title": "Nasi Klienci"
+  "menu-home": "Dom",
+  "menu-about": "O nas",
+  "menu-services": "Usługi",
+  "menu-quality": "Polityka jakości",
+  "menu-products": "Wyroby",
+  "menu-product-range": "Oferta Produktów",
+  "menu-customers": "Nasi Klienci",
+  "menu-contact": "Kontakt",
+  "welcome": "Witamy w PAR\nWiodący producenci elementów złącznych w Indiach!\nCzytaj dalej",
+  "slide1-subtitle": "Wiodące elementy złączne\n                  producentów w Indiach!",
+  "btn-read-more": "Więcej informacji",
+  "slide2-title": "Elementy złączne, które zostały zaprojektowane z wykorzystaniem\n                  wysokiej jakości materiałów i jest zgodny z aktualnymi specyfikacjami międzynarodowymi.",
+  "btn-product-range": "Oferta Produktów",
+  "slide3-title": "W tym kucie zarówno na gorąco, jak i na zimno\n                  zakładach produkcyjnych.",
+  "btn-services": "Usługi"
 }
