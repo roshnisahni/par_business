@@ -120,5 +120,10 @@
   "quality-num3": "03",
   "quality-step3-title": "Inspekcja techniczna",
   "quality-step3-desc": "Temperatura pieca jest regularnie sprawdzana za pomocą elektronicznego rejestratora ciepła.",
-  "quality-num4": "04"
+  "quality-num4": "04",
+  "quality-step4-title": "Wykończenie",
+  "quality-step4-desc": "Jakość i grubość jest sprawdzana przez personel techniczny z określoną częstotliwością.",
+  "quality-num5": "05",
+  "quality-step5-title": "Ostatni etap",
+  "quality-step5-desc": "Opakowanie każdego elementu jest oznakowane i wymienione z podaniem określonego rozmiaru, zamówienia. Liczba, masa całkowita i liczba sztuk w paczce."
 }
