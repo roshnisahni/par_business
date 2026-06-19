@@ -115,5 +115,10 @@
   "sector-panel": "لوحة كهربائية",
   "sector-nuclear": "طاقة نووية",
   "sector-oil": "قطاع النفط والغاز",
-  "sector-solar": "قطاع الطاقة الشمسية"
+  "sector-solar": "قطاع الطاقة الشمسية",
+  "sector-bridge": "تشيد الجسور الفولاذية",
+  "sector-transformer": "قطاع المحولات",
+  "sector-transmission": "قطاع النقل",
+  "sector-valves": "قطاع الصمامات",
+  "portfolio-btn": "المنزل "
 }
