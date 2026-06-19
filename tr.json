@@ -68,5 +68,10 @@
   "table2-th-std": "Standart",
   "table2-th-item": "Kalem",
   "table2-th-mech": "Mekanik",
-  "table2-th-dim": "Boyutlu"
+  "table2-th-dim": "Boyutlu",
+  "item-hexbolt": "Hex. cıvata",
+  "item-hhexbolt": "Ağır Altıgen Cıvata",
+  "item-structbolt": "ALTIGEN Yapısal Cıvata",
+  "item-coachbolt": "Vagon / Taşıyıcı Cıvatası",
+  "item-hexscrew": "Altıgen başlı vida"
 }
