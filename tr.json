@@ -95,5 +95,10 @@
   "btn-quality-policies": "Kalite Politikaları",
   "about-title": "About Us",
   "about-intro": "PAR Industries, 2009 yılından bu yana Hindistan'ın Pencap eyaletinin Ludhiana kentinde bulunan ve endüstriye dünya standartlarında kaliteli cıvata ve somunlarla hizmet veren tanınmış bir endüstriyel bağlantı elemanı üreticisi ve tedarikçisidir.",
-  "about-feature1": "Şirket kodumuz, ölçülen stratejik yönetimden, müşterinin ihtiyacını karşılama arzusundan, yetenekli bir işçilik bağlantısından ve ürün kalite kontrolüne olan yanılmaz bağlılığımızdan biridir."
+  "about-feature1": "Şirket kodumuz, ölçülen stratejik yönetimden, müşterinin ihtiyacını karşılama arzusundan, yetenekli bir işçilik bağlantısından ve ürün kalite kontrolüne olan yanılmaz bağlılığımızdan biridir.",
+  "portfolio-title": "Müşterilerimiz",
+  "portfolio-desc": "Ürünlerimizi aşağıdaki sektörlere tedarik ediyoruz.",
+  "sector-agri": " <g id=\"1\"> Tarım Sektörü:</g>",
+  "sector-auto": "Oto Sektör",
+  "sector-build": "Yapı ve inşaat"
 }
