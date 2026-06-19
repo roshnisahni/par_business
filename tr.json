@@ -58,5 +58,10 @@
   "li-grade-ht": "Yüksek Çekme",
   "lbl-finish-alt3": "BİTİŞ",
   "lbl-studs-range": "SAPLAMA CIVATALARI VE ÇİFT UÇLU SAPLAMALAR :",
-  "val-studs-desc": "PAR, ASTM A193 Gr'ye göre Saplama Cıvataları üretmektedir. B7 ve Çift Uçlu Saplamalar Çap -½” ila 4″ ve uzunluk 76″ inç seri ve 8 mm ila 100 mm ve uzunluk metrik seride 3 metreye kadar."
+  "val-studs-desc": "PAR, ASTM A193 Gr'ye göre Saplama Cıvataları üretmektedir. B7 ve Çift Uçlu Saplamalar Çap -½” ila 4″ ve uzunluk 76″ inç seri ve 8 mm ila 100 mm ve uzunluk metrik seride 3 metreye kadar.",
+  "lbl-grade-alt4": "NOT",
+  "val-grade-studs": "B7, B7M, 2H, 2HM",
+  "lbl-de-type": "ÇİFT UÇLU :",
+  "val-de-desc": "Hafif Çelik ve Yüksek Çekme",
+  "table2-title": "PAR STANDART ŞARTNAME TABLOSU"
 }
