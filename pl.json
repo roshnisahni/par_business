@@ -1,7 +1,12 @@
 {
-  "meta-title": "PAR INDUSTRIES",
-  "nav-home": "Dom",
-  "nav-about": "O nas",
-  "nav-services": "Usługi",
-  "nav-quality": "Polityka jakości"
+  "menu-home": "Dom",
+  "menu-about": "O nas",
+  "menu-services": "Usługi",
+  "menu-quality": "Polityka jakości",
+  "menu-products": "Wyroby",
+  "menu-product-range": "Oferta Produktów",
+  "menu-customers": "Nasi Klienci",
+  "menu-contact": "Kontakt",
+  "welcome": "Witamy w PAR\nWiodący producenci elementów złącznych w Indiach!\nCzytaj dalej",
+  "slide1-subtitle": "Wiodące elementy złączne\n                  producentów w Indiach!"
 }
