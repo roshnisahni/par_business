@@ -115,5 +115,10 @@
   "quality-num2": "02",
   "quality-step2-title": "Proceso de producción",
   "quality-step2-desc1": "-Inspección por etapas a una frecuencia específica.",
-  "quality-step2-desc2": "- Diámetro del alambre."
+  "quality-step2-desc2": "- Diámetro del alambre.",
+  "quality-step2-desc3": "- Las primeras 5 piezas se revisan y son aprobadas por el supervisor.",
+  "quality-num3": "03",
+  "quality-step3-title": "Inspecciones técnicas",
+  "quality-step3-desc": "La temperatura del horno se comprueba regularmente con un registrador de calor electrónico.",
+  "quality-num4": "04"
 }
