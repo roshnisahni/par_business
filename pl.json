@@ -110,5 +110,10 @@
   "service3-desc2": "Nakrętki te są stosowane w wielu sektorach. Maszyny Trop umożliwiają nam również wykonywanie nakrętek prętowych zgodnie z rysunkami i specyfikacjami klienta.",
   "quality-title": "Polityka jakości",
   "quality-num1": "01",
-  "quality-step1-title": "Przychodzące surowce"
+  "quality-step1-title": "Przychodzące surowce",
+  "quality-step1-desc": "Kupuj surowce z certyfikatem testowym do sprawdzania właściwości, takich jak skład chemiczny i właściwości mechaniczne.",
+  "quality-num2": "02",
+  "quality-step2-title": "Proces produkcyjny",
+  "quality-step2-desc1": "- Kontrola etapowa z określoną częstotliwością.",
+  "quality-step2-desc2": "- Średnica drutu."
 }
