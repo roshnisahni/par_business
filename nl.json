@@ -63,5 +63,10 @@
   "li-wash-plain": "Gewone sluitringen",
   "li-wash-heavy": "Zware sluitringen",
   "li-wash-spring": "Veerringen",
-  "li-wash-hsfg": "Wrijvingsgripringen met hoge sterkte\nvolgens de eis van de klant."
+  "li-wash-hsfg": "Wrijvingsgripringen met hoge sterkte\nvolgens de eis van de klant.",
+  "li-wash-req": "als per\n                de eis van de klant.",
+  "lbl-finish-alt2": "AFWERKING:",
+  "lbl-bars-range": "DRAADSTANGEN:",
+  "val-bars-desc": "PAR produceert draadstangen met een maximale dia tot 100 mm en een lengte tot 3 meter.",
+  "lbl-grade-alt3": "GRAAD"
 }
