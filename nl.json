@@ -68,5 +68,10 @@
   "lbl-finish-alt2": "AFWERKING:",
   "lbl-bars-range": "DRAADSTANGEN:",
   "val-bars-desc": "PAR produceert draadstangen met een maximale dia tot 100 mm en een lengte tot 3 meter.",
-  "lbl-grade-alt3": "GRAAD"
+  "lbl-grade-alt3": "GRAAD",
+  "li-grade-ms": "Zacht staal",
+  "li-grade-ht": "hoogwaardig",
+  "lbl-finish-alt3": "AFWERKING:",
+  "lbl-studs-range": "STIFTBOUTEN EN DUBBELZIJDIGE STIFTBOUTEN :",
+  "val-studs-desc": "PAR produceert stiftbouten volgens ASTM A193 Gr. B7 en dubbelzijdige noppen in dia -½\" tot 4\" en lengte tot 76\"in inch serie en 8 mm tot 100 mm en lengte tot 3 meter in metrische serie."
 }
