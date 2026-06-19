@@ -138,5 +138,10 @@
   "portfolio-desc": "Nasze produkty dostarczamy do następujących branż.",
   "sector-agri": "Sektor rolnictwa",
   "sector-auto": "Auto Sector",
-  "sector-build": "Budownictwo:"
+  "sector-build": "Budownictwo:",
+  "sector-cycle": "branża reagująca z opóźnieniem na ożywienie koniunktury;",
+  "sector-panel": ".",
+  "sector-nuclear": "Elektrownia jądrowa",
+  "sector-oil": "Sektor naftowo-gazowy",
+  "sector-solar": "Sektor energii słonecznej"
 }
