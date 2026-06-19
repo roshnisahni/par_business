@@ -143,5 +143,10 @@
   "sector-panel": "Quadro elettrico",
   "sector-nuclear": "Energia nucleare",
   "sector-oil": "Settore Oil & Gas",
-  "sector-solar": "Settore solare"
+  "sector-solar": "Settore solare",
+  "sector-bridge": "Costruzione di ponti in acciaio",
+  "sector-transformer": "Settore Trasformatori",
+  "sector-transmission": "Settore Trasmissione",
+  "sector-valves": "SETTORE VALVOLE",
+  "portfolio-btn": "Home"
 }
