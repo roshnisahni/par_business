@@ -4,9 +4,14 @@
   "menu-services": "Hizmetler",
   "menu-quality": "Kalite Politikaları",
   "menu-products": "Ürünler",
-  "menu-product-range": "ÜRÜN ÇEŞİTLİLİĞİ",
-  "menu-customers": "Müşterilerimiz",
-  "menu-contact": "Bizimle İrtibata Geçin",
-  "welcome": "PAR'a hoş geldiniz\nHindistan'ın önde gelen bağlantı elemanları üreticileri!\nDevamını Oku",
-  "slide1-subtitle": "Önde gelen bağlantı elemanları\n                  hindistan'daki üreticiler!"
+  "meta-title": "PAR INDUSTRİES",
+  "nav-home": "Anasayfa",
+  "nav-about": "About Us",
+  "nav-services": "Hizmetler",
+  "nav-quality": "Kalite Politikaları",
+  "nav-products": "Ürünler",
+  "nav-range": "ÜRÜN ÇEŞİTLİLİĞİ",
+  "nav-customers": "Müşterilerimiz",
+  "nav-contact": "Bizimle İrtibata Geçin",
+  "breadcrumbs-title": "Müşterilerimiz"
 }
