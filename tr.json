@@ -63,5 +63,10 @@
   "val-grade-studs": "B7, B7M, 2H, 2HM",
   "lbl-de-type": "ÇİFT UÇLU :",
   "val-de-desc": "Hafif Çelik ve Yüksek Çekme",
-  "table2-title": "PAR STANDART ŞARTNAME TABLOSU"
+  "table2-title": "PAR STANDART ŞARTNAME TABLOSU",
+  "table2-th-sr": "Seri No.",
+  "table2-th-std": "Standart",
+  "table2-th-item": "Kalem",
+  "table2-th-mech": "Mekanik",
+  "table2-th-dim": "Boyutlu"
 }
